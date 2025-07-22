@@ -2,7 +2,7 @@
 
 A comprehensive, step-by-step guide to creating reports and dashboards in Splunk for security monitoring. This project walks through the process of analyzing failed login data, from initial search to building a multi-panel, interactive dashboard.
 
-[View PDF](Splunk reports and dashboards report.pdf)
+[View PDF](Splunk%20reports%20and%20dashboards%20report.pdf)
 
 ---
 
